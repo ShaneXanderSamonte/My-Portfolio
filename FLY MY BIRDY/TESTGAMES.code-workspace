@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "../TESTGAMES"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "prelim2"
+	}
+}

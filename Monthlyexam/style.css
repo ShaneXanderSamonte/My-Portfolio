@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+    font-family: "Libreoffice";
+    text-align: center;
+}
+p {
+    color: white;
+    font-size: larger;
+}
+img {
+    position: center;
+    width: 100%;
+    border: 5px solid white;
+}
+h1{
+    font-style: LibreRegular;
+    color: white;
+}
+div {
+    width: 50%;
+    margin-left: 25%;
+    position: relative; 
+}
